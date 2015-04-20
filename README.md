@@ -2,7 +2,7 @@
 
 This project contains the code discussed in this post: 
 
-http://blog.brunobonacci.com/2015-04-19-dead-simple-introduction-to-clojure-macros.html
+http://blog.brunobonacci.com/2015/04/19/dead-simple-introduction-to-clojure-macros/
 
 ## Usage
 
